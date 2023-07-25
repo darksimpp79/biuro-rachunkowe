@@ -44,3 +44,19 @@ img{
   width: 500px;
   height: 200px;
 }
+
+#zdj {
+  width: 100vw;
+  height: 40vh;
+}
+
+.zdj3{
+  width: 100vw;
+  height: 40vh;
+  padding: 20px;
+}
+
+.kurczak {
+  width: 100vw;
+  height: auto;
+}
